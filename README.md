@@ -1,5 +1,7 @@
 # SLS TEM - Seu Guia Local 🚀
 
+Vá para: <a href='https://slstem.com.br'>SLS TEM</a>
+
 Bem-vindo ao repositório oficial do SLS TEM, o seu guia local para encontrar comércios e serviços em São Lourenço do Sul!
 
 ## Desenvolvimento
