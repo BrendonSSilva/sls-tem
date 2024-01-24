@@ -6,18 +6,19 @@ Bem-vindo ao repositório oficial do SLS TEM, um guia local para encontrar comé
 
 ## Desenvolvimento
 
-O SLS TEM é uma aplicação web totalmente concebida e desenvolvida por mim. Aqui estão alguns detalhes do desenvolvimento:
+O SLS TEM é uma aplicação web totalmente idealizada e desenvolvida por mim. Aqui estão alguns detalhes do desenvolvimento:
 
 - **Tecnologias Utilizadas:**
+  - NodeJS
   - Nullstack
   - ReactJS
-  - Sass
+  - MongoDB
   - Figma (para design)
 
 ## Funcionalidades Principais
 
 1. **Banco de Dados:**
-   - Utilizamos um banco de dados mockado para armazenar informações sobre os comércios e serviços locais.
+   - Foi desenvolvido com o banco de dados MongoDB
 
 2. **Roteamento de Páginas:**
    - Implementamos um sistema eficiente de roteamento para proporcionar uma navegação suave aos usuários.
