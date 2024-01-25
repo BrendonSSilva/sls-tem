@@ -18,7 +18,7 @@ O SLS TEM é uma aplicação web totalmente idealizada e desenvolvida por mim. A
 ## Funcionalidades Principais
 
 1. **Gerenciador de Dados:**
-   - Desenvolvi um gerenciador de dados com NodeJs e MongoDB. O código do gerenciador está privado, mas irei postar no meu linkedin vídeo utilizando ele.
+   - Desenvolvi um gerenciador de dados com NodeJs e MongoDB. O código do gerenciador está privado, mas irei postar no meu linkedin vídeo utilizando ele (também posso mostrar por call como funciona e explicando suas funções).
 
 2. **Banco de Dados:**
    - Foi desenvolvido com o banco de dados MongoDB
