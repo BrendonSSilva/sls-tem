@@ -26,5 +26,8 @@ O SLS TEM é uma aplicação web totalmente idealizada e desenvolvida por mim. A
 
 4. **Personalização do Card:**
    - Oferecemos aos usuários a capacidade de personalizar o card da sua empresa, adicionando informações e uma foto exclusiva.
+  
+4. **Organizaão:**
+   - A ordem das categorias exibidas será sempre por ordem alfabética, para melhor experiência.
 
 # SLSTEM #DesenvolvimentoWeb
